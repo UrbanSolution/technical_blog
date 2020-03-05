@@ -1,3 +1,3 @@
 # thomassajot.github.io
 
-Personal Blog where is take notes of my technical knowledge acquired through work or personal projects.
+Personal Blog where I keep track of my technical knowledge acquired through work or personal projects.
